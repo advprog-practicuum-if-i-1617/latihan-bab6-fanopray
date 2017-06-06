@@ -1,0 +1,19 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package inheritance;
+
+/**
+ *
+ * @author User
+ */
+public class softwear extends Inheritance{
+   public softwear(String name,double gajipokok,double bonus,int masakerja){
+     super(name, gajipokok, bonus, masakerja);  
+   }
+   
+    
+    
+}
